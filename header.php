@@ -12,6 +12,7 @@
   </title>
   <meta name="description" content="蓑輪歯科クリニックの公式サイトです" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
+  <meta name="format-detection" content="telephone=no">
   <?php wp_head(); ?>
 </head>
 
