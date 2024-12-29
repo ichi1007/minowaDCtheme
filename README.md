@@ -7,3 +7,7 @@
 ### ここからダウンロード
 
 > [ダウンロード](https://github.com/ichi1007/minowaDCtheme/ichi1007/minowaDCtheme/archive/refs/heads/main.zip)
+
+### GitHub からダウンロード
+
+[![GitHub release](https://img.shields.io/github/release/ichi1007/minowaDCtheme.svg)](https://github.com/ichi1007/minowaDCtheme/ichi1007/minowaDCtheme/archive/refs/heads/main.zip)
